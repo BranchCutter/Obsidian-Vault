@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/Network Introduction.md",
+                "file": "network/OSI Reference Model and TCP-IP Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/Network Introduction.md",
+                "file": "network/OSI Reference Model and TCP-IP Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/Network Introduction.md"
+                "file": "network/OSI Reference Model and TCP-IP Basic.md"
               }
             }
           },
@@ -169,13 +168,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ec3848ea2c06f7b8",
+  "active": "8ae5204b095a5830",
   "lastOpenFiles": [
+    "network/Network Introduction.md",
     "network/OSI Reference Model and TCP-IP Basic.md",
     "Github-Obsidian/network/OSI Reference Model and TCP-IP Basic.md",
     "자취.md",
     "README.md",
-    "network/Network Introduction.md",
     "network",
     "Docker(Container)/Container Service.md",
     "Docker(Container)/Cloud Computing.md",
