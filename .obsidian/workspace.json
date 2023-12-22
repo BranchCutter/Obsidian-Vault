@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Github-Obsidian/network/OSI Reference Model and TCP-IP Basic.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github-Obsidian/network/Network Introduction.md",
+                "file": "Github-Obsidian/network/OSI Reference Model and TCP-IP Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github-Obsidian/network/Network Introduction.md",
+                "file": "Github-Obsidian/network/OSI Reference Model and TCP-IP Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github-Obsidian/network/Network Introduction.md"
+                "file": "Github-Obsidian/network/OSI Reference Model and TCP-IP Basic.md"
               }
             }
           },
@@ -181,12 +180,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c96b7eba17e30992",
+  "active": "8ae5204b095a5830",
   "lastOpenFiles": [
-    "황승모띠.md",
     "Github-Obsidian/network/Network Introduction.md",
-    "Untitled.canvas",
     "Github-Obsidian/network/OSI Reference Model and TCP-IP Basic.md",
+    "황승모띠.md",
+    "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
     "Github-Obsidian/23-2/SpringBoot/SpringBoot 2.md",
     "Github-Obsidian/Docker(Container)/Container Service.md",
