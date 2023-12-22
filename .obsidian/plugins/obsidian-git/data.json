@@ -1,8 +1,8 @@
 {
   "commitMessage": "docs: vault backup at {{date}} (automatic commit)",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 1,
-  "autoPushInterval": 30,
+  "autoSaveInterval": 30,
+  "autoPushInterval": 60,
   "autoPullInterval": 0,
   "autoPullOnBoot": false,
   "disablePush": false,
