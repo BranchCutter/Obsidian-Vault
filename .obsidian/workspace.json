@@ -11,36 +11,8 @@
             "id": "8ae5204b095a5830",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Github-Obsidian/network/OSI Reference Model and TCP-IP Basic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a4d429ee6b1b38e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Github-Obsidian/23-2/SpringBoot/SpringBoot 2.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "454a933ad74be6ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Github-Obsidian/network/Network Introduction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github-Obsidian/network/OSI Reference Model and TCP-IP Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github-Obsidian/network/OSI Reference Model and TCP-IP Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Github-Obsidian/network/OSI Reference Model and TCP-IP Basic.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,8 +150,24 @@
   },
   "active": "8ae5204b095a5830",
   "lastOpenFiles": [
-    "Github-Obsidian/network/Network Introduction.md",
     "Github-Obsidian/network/OSI Reference Model and TCP-IP Basic.md",
+    "자취.md",
+    "README.md",
+    "network/OSI Reference Model and TCP-IP Basic.md",
+    "network/Network Introduction.md",
+    "network",
+    "Docker(Container)/Container Service.md",
+    "Docker(Container)/Cloud Computing.md",
+    "Docker(Container)",
+    "ComputerStructure/Start Computer Structure.md",
+    "ComputerStructure",
+    "23-2/SpringBoot/SpringBoot.md",
+    "23-2/SpringBoot/SpringBoot 3.md",
+    "23-2/SpringBoot/SpringBoot 2.md",
+    "23-2/SpringBoot/SpringBoot 1.md",
+    "23-2/SpringBoot",
+    "23-2",
+    "Github-Obsidian/network/Network Introduction.md",
     "황승모띠.md",
     "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
@@ -201,7 +185,6 @@
     "Github-Obsidian/README.md",
     "Github-Obsidian/23-2/SpringBoot/SpringBoot 3.md",
     "Github-Obsidian/23-2/SpringBoot",
-    "Github-Obsidian/23-2",
-    "Github-Obsidian"
+    "Github-Obsidian/23-2"
   ]
 }
