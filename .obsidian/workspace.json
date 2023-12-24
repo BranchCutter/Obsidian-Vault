@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/Local Area Network.md",
+                "file": "network/4. Wide Area Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8a35c0a7be5cac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "network/5. Hardware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "936d99b8642a30c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "network/2. OSI Reference Model and TCP-IP Basic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/Local Area Network.md",
+                "file": "network/5. Hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/Local Area Network.md",
+                "file": "network/5. Hardware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/Local Area Network.md"
+                "file": "network/5. Hardware.md"
               }
             }
           },
@@ -165,11 +190,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ae5204b095a5830",
+  "active": "e8a35c0a7be5cac6",
   "lastOpenFiles": [
-    "network/OSI Reference Model and TCP-IP Basic.md",
-    "network/Local Area Network.md",
-    "network/Network Introduction.md",
+    "network/4. Wide Area Network.md",
+    "network/5. Hardware.md",
+    "network/3. Local Area Network.md",
+    "network/2. OSI Reference Model and TCP-IP Basic.md",
+    "network/1. Network Introduction.md",
+    "스프링으로 인공지능 웹서버 구축.md",
     "Github-Obsidian/network/OSI Reference Model and TCP-IP Basic.md",
     "자취.md",
     "README.md",
@@ -201,7 +229,6 @@
     "Github-Obsidian/Docker(Container)",
     "Github-Obsidian/ComputerStructure",
     "Github-Obsidian/README.md",
-    "Github-Obsidian/23-2/SpringBoot/SpringBoot 3.md",
     "Github-Obsidian/23-2/SpringBoot",
     "Github-Obsidian/23-2"
   ]
