@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/5. Hardware.md",
+                "file": "Go/1. Easy to learn but Hard to master.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ca843cbc4e15f9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go/2. Organize code and project.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -111,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/5. Hardware.md",
+                "file": "Go/2. Organize code and project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/5. Hardware.md",
+                "file": "Go/2. Organize code and project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/5. Hardware.md"
+                "file": "Go/2. Organize code and project.md"
               }
             }
           },
@@ -190,12 +201,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e8a35c0a7be5cac6",
+  "active": "9ca843cbc4e15f9a",
   "lastOpenFiles": [
-    "network/4. Wide Area Network.md",
-    "network/5. Hardware.md",
-    "network/3. Local Area Network.md",
+    "Go/1. Easy to learn but Hard to master.md",
+    "Go/2. Organize code and project.md",
     "network/2. OSI Reference Model and TCP-IP Basic.md",
+    "network/5. Hardware.md",
+    "Go",
+    "network/4. Wide Area Network.md",
+    "network/3. Local Area Network.md",
     "network/1. Network Introduction.md",
     "스프링으로 인공지능 웹서버 구축.md",
     "Github-Obsidian/network/OSI Reference Model and TCP-IP Basic.md",
@@ -225,11 +239,8 @@
     "Pasted image 20231201081419.png",
     "Github-Obsidian/Docker(Container)/Cloud Computing.md",
     "Github-Obsidian/23-2/SpringBoot/SpringBoot 1.md",
-    "Github-Obsidian/23-2/SpringBoot/SpringBoot.md",
     "Github-Obsidian/Docker(Container)",
     "Github-Obsidian/ComputerStructure",
-    "Github-Obsidian/README.md",
-    "Github-Obsidian/23-2/SpringBoot",
-    "Github-Obsidian/23-2"
+    "Github-Obsidian/23-2/SpringBoot"
   ]
 }
