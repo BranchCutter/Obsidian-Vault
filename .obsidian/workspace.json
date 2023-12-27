@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/4. Wide Area Network.md",
+                "file": "network/6. Protocol and Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +42,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "7998e61a93d9886c",
+        "type": "tabs",
+        "children": [
           {
             "id": "936d99b8642a30c2",
             "type": "leaf",
@@ -55,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -122,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/2. Organize code and project.md",
+                "file": "network/6. Protocol and Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/2. Organize code and project.md",
+                "file": "network/6. Protocol and Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/2. Organize code and project.md"
+                "file": "network/6. Protocol and Service.md"
               }
             }
           },
@@ -201,14 +207,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ca843cbc4e15f9a",
+  "active": "8ae5204b095a5830",
   "lastOpenFiles": [
-    "Go/1. Easy to learn but Hard to master.md",
-    "Go/2. Organize code and project.md",
     "network/2. OSI Reference Model and TCP-IP Basic.md",
+    "network/6. Protocol and Service.md",
+    "Go/2. Organize code and project.md",
+    "Go/1. Easy to learn but Hard to master.md",
     "network/5. Hardware.md",
-    "Go",
     "network/4. Wide Area Network.md",
+    "Go",
     "network/3. Local Area Network.md",
     "network/1. Network Introduction.md",
     "스프링으로 인공지능 웹서버 구축.md",
@@ -238,7 +245,6 @@
     "Github-Obsidian/network",
     "Pasted image 20231201081419.png",
     "Github-Obsidian/Docker(Container)/Cloud Computing.md",
-    "Github-Obsidian/23-2/SpringBoot/SpringBoot 1.md",
     "Github-Obsidian/Docker(Container)",
     "Github-Obsidian/ComputerStructure",
     "Github-Obsidian/23-2/SpringBoot"
