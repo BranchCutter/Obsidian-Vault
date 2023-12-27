@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/6. Protocol and Service.md",
+                "file": "network/2. OSI Reference Model and TCP-IP Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/6. Protocol and Service.md",
+                "file": "network/2. OSI Reference Model and TCP-IP Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/6. Protocol and Service.md"
+                "file": "network/2. OSI Reference Model and TCP-IP Basic.md"
               }
             }
           },
@@ -207,10 +207,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ae5204b095a5830",
+  "active": "936d99b8642a30c2",
   "lastOpenFiles": [
-    "network/2. OSI Reference Model and TCP-IP Basic.md",
     "network/6. Protocol and Service.md",
+    "network/2. OSI Reference Model and TCP-IP Basic.md",
     "Go/2. Organize code and project.md",
     "Go/1. Easy to learn but Hard to master.md",
     "network/5. Hardware.md",
