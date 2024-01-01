@@ -60,8 +60,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0cb3fab1c9f5e6c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +218,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "936d99b8642a30c2",
+  "active": "c0cb3fab1c9f5e6c",
   "lastOpenFiles": [
     "network/6. Protocol and Service.md",
     "network/2. OSI Reference Model and TCP-IP Basic.md",
