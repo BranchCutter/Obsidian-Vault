@@ -4,48 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "8b380a4c327461e8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8ae5204b095a5830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "network/6. Protocol and Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8a35c0a7be5cac6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go/1. Easy to learn but Hard to master.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ca843cbc4e15f9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go/2. Organize code and project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "7998e61a93d9886c",
         "type": "tabs",
         "children": [
@@ -82,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aacb5ecf049cba55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workstation/Deadline 2024-01-10/What is Pod?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes.md",
+                "file": "Workstation/Deadline 2024-01-10/What is Pod?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes.md",
+                "file": "Workstation/Deadline 2024-01-10/What is Pod?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes.md"
+                "file": "Workstation/Deadline 2024-01-10/What is Pod?.md"
               }
             }
           },
@@ -229,10 +199,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78612287d6446e7e",
+  "active": "aacb5ecf049cba55",
   "lastOpenFiles": [
-    "김호원.md",
+    "Workstation/Deadline 2024-01-10",
+    "Workstation/WorkSheet.md",
+    "Workstation/Deadline 2024-01-10/What is Pod?.md",
+    "Workstation",
     "Kubernetes/Kubernetes.md",
+    "김호원.md",
     "Kubernetes",
     "network/6. Protocol and Service.md",
     "network/2. OSI Reference Model and TCP-IP Basic.md",
@@ -263,12 +237,7 @@
     "황승모띠.md",
     "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
-    "Github-Obsidian/23-2/SpringBoot/SpringBoot 2.md",
-    "Github-Obsidian/Docker(Container)/Container Service.md",
-    "Github-Obsidian/자취.md",
     "Github-Obsidian/network",
-    "Pasted image 20231201081419.png",
-    "Github-Obsidian/Docker(Container)",
-    "Github-Obsidian/ComputerStructure"
+    "Pasted image 20231201081419.png"
   ]
 }
