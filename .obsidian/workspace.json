@@ -82,9 +82,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a948767757aa15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "김호원.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes.md",
+                "file": "김호원.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes.md",
+                "file": "김호원.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes.md"
+                "file": "김호원.md"
               }
             }
           },
@@ -229,9 +241,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78612287d6446e7e",
+  "active": "2a948767757aa15c",
   "lastOpenFiles": [
     "Kubernetes/Kubernetes.md",
+    "김호원.md",
     "Kubernetes",
     "network/6. Protocol and Service.md",
     "network/2. OSI Reference Model and TCP-IP Basic.md",
@@ -265,7 +278,6 @@
     "Github-Obsidian/23-2/SpringBoot/SpringBoot 2.md",
     "Github-Obsidian/Docker(Container)/Container Service.md",
     "Github-Obsidian/자취.md",
-    "Github-Obsidian/ComputerStructure/Start Computer Structure.md",
     "Github-Obsidian/network",
     "Pasted image 20231201081419.png",
     "Github-Obsidian/Docker(Container)",
