@@ -74,4 +74,11 @@ pod안의 컨테이너가 동일한 네트워크 네임스페이스에서 실행
 * 클러스터의 모든 Pod는 하나의 Flat한 공유 네트워크 주소 공간에 상주한다.
 * 모든 Pod는 다른 Pod의 IP 주소를 사용하여 접근하는 것이 가능하다.
 (Pod간 어떠한 NAT도 존재하지 않으며 마치 LAN처럼 통신이 가능하다.)
-* Pod 안에 있는 모든 컨테이너는 동일한 루프백 네트워크 인터페이스를 가지기에 컨테이너들이 Localhost 
+* 두 파드가 서로 네트워크 패킷을 보내면, 상대방의 실제 IP 주소를 패킷 안에 있는 출발지 IP 주소에서 찾을 수 있다.
+
+![700](https://i.imgur.com/POadqGJ.png)
+
+Each pod gets a routable IP address and all other pods see the pod under that IP address.
+
+---
+## 
