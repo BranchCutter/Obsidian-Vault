@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workstation/Deadline 2024-01-10/What is container?.md",
+                "file": "Workstation/Deadline 2024-01-10/Install kubernetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workstation/Deadline 2024-01-10/What is container?.md",
+                "file": "Workstation/Deadline 2024-01-10/Install kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workstation/Deadline 2024-01-10/What is container?.md",
+                "file": "Workstation/Deadline 2024-01-10/Install kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workstation/Deadline 2024-01-10/What is container?.md"
+                "file": "Workstation/Deadline 2024-01-10/Install kubernetes.md"
               }
             }
           },
@@ -203,11 +203,11 @@
   "active": "78612287d6446e7e",
   "lastOpenFiles": [
     "Docker(Container)/Container Service.md",
+    "Workstation/Deadline 2024-01-10/Install kubernetes.md",
+    "network/2. OSI Reference Model and TCP-IP Basic.md",
     "Workstation/Deadline 2024-01-10/What is container?.md",
-    "Workstation/Deadline 2024-01-10/Untitled.md",
     "Kubernetes/Kubernetes.md",
     "Docker(Container)/Cloud Computing.md",
-    "network/2. OSI Reference Model and TCP-IP Basic.md",
     "Workstation/Deadline 2024-01-10/What is Pod?.md",
     "Workstation/Deadline 2024-01-10",
     "Workstation/WorkSheet.md",
