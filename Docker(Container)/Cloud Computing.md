@@ -1,6 +1,11 @@
 ## Cloud Computing Summary
 ```
-It is a computing technology that allows users to receive IT services through the Internet and mobile at any time, including servers, storage, databases, networks, software, and data analysis used in cloud infrastructure. It provides an environment in which operational costs can be lowered and changes in business requirements can be quickly applied through agile service introduction, flexible expansion and reduction, and automated service maintenance using Agile methodology.
+It is a computing technology that allows users to receive IT services through
+the Internet and mobile at any time, including servers, storage, databases, 
+networks, software, and data analysis used in cloud infrastructure. 
+It provides an environment in which operational costs can be lowered and changes in business requirements can be quickly applied through 
+agile service introduction, flexible expansion and reduction, 
+and automated service maintenance using Agile methodology.
 ```
 
 ---
@@ -19,7 +24,9 @@ Cloud Computing(Defined by Gartner)
 What computing model is the Cloud Computing based on.
 
 utility computing
- - A form in which IT departments or externel service providers within the enterprise provide customers with management of multiple resources and infrastructure used for computing
+ - A form in which IT departments or externel service providers within the
+   enterprise provide customers with management of multiple resources and 
+   infrastructure used for computing
  - a pay-as-you-go system that charges according to usage
  - Key features of this tech
    ├─ Cluster
@@ -62,7 +69,10 @@ enterprise and customers can create an optimized cloud environment.
 ---
 ### Cloud Computing Architecture
 ``` 
-Cloud Computing Architecture is divided into the physical system layer, virtualiztion layer, and provisioning layer related to **resource utilization** as the lowest layer, and the cloud service management layer and cloud service layer related to **cloud services**.
+Cloud Computing Architecture is divided into the physical system layer, 
+virtualiztion layer, and provisioning layer related to resource utilization
+as the lowest layer, and the cloud service management layer 
+and cloud service layer related to **cloud services.
 ```
 ![](https://i.imgur.com/itCl5U5.png)
 
@@ -73,13 +83,17 @@ Cloud Computing Architecture is divided into the physical system layer, virtuali
 
 ``` on-premise
 Performing IT services by building a data center in the company to store its own data and solutions.
-It also includes disadvantages. Increased initial investment costs for all resources(including hardware), and increased ongoing management costs due to limited, inelastic capacity.
+It also includes disadvantages. 
+Increased initial investment costs for all resources(including hardware), 
+and increased ongoing management costs due to limited, inelastic capacity.
 ```
 
 <center>-- public cloud -- </center>
 
 ``` public-cloud
-Public cloud mehotd is a method in which multiple users receive cloud resources such as servers and storage from cloud service providers such as AWS, GCP, and Azure thorugh the Internet.
+Public cloud mehotd is a method in which multiple users receive cloud resources
+such as servers and storage from cloud service providers such as AWS, GCP,
+and Azure thorugh the Internet.
 It is utility computer method as mentioned earlier, uses pay-as-you-go system method.
 Representative method
  ├─ IaaS

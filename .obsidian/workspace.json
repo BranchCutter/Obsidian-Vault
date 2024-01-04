@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes.md",
+                "file": "Workstation/Deadline 2024-01-10/What is container?.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,14 +47,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes.md",
+                "file": "Docker(Container)/Container Service.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes.md",
+                "file": "Workstation/Deadline 2024-01-10/What is container?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes.md",
+                "file": "Workstation/Deadline 2024-01-10/What is container?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes.md"
+                "file": "Workstation/Deadline 2024-01-10/What is container?.md"
               }
             }
           },
@@ -199,11 +200,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aacb5ecf049cba55",
+  "active": "78612287d6446e7e",
   "lastOpenFiles": [
-    "network/2. OSI Reference Model and TCP-IP Basic.md",
-    "Kubernetes/Kubernetes.md",
+    "Docker(Container)/Container Service.md",
     "Workstation/Deadline 2024-01-10/What is container?.md",
+    "Workstation/Deadline 2024-01-10/Untitled.md",
+    "Kubernetes/Kubernetes.md",
+    "Docker(Container)/Cloud Computing.md",
+    "network/2. OSI Reference Model and TCP-IP Basic.md",
     "Workstation/Deadline 2024-01-10/What is Pod?.md",
     "Workstation/Deadline 2024-01-10",
     "Workstation/WorkSheet.md",
@@ -223,8 +227,6 @@
     "자취.md",
     "README.md",
     "network",
-    "Docker(Container)/Container Service.md",
-    "Docker(Container)/Cloud Computing.md",
     "Docker(Container)",
     "ComputerStructure/Start Computer Structure.md",
     "ComputerStructure",
@@ -235,7 +237,6 @@
     "23-2/SpringBoot",
     "23-2",
     "Github-Obsidian/network/Network Introduction.md",
-    "황승모띠.md",
     "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
     "Github-Obsidian/network",

@@ -15,6 +15,7 @@
 오케스트레이션을 통해 컨테이너 라이프사이클을 관리하면 CI/CD 워크플로우에 이를 통합하는 DevOps 팀을 지원할 수도 있다.
 컨테이너화된 마이크로서비스는 API(Application Programing Interface) 및 DevOps 팀과 함께 Cloud Native Application의 기반을 이루게 된다.
 
+---
 ### Where does Container Orchastration use?
 
 ```
@@ -30,6 +31,7 @@ Using Container Orchastration
  └─ Secure container-to-container interactions
 ```
 
+---
 ### Container Orchastration Tools
 컨테이너 오케스트레이션 툴은 컨테이너와 마이크로 서비스 아키텍처를 규모에 따라 관리할 프레임워크를 제공한다. 컨테이너 라이프사이클 관리에 사용할 수 있는 컨테이너 오케스트레이션 툴은 다양하며 그 중 Kubernetes, Docker Swarm, Apache Mesos가 널리 사용된다.
 
@@ -63,3 +65,16 @@ Key components of Kubernetes
        All containers in pod share an IP, IPC, hostname, and other resources.
 ```
 
+---
+
+## Work routine on Container Orchastration
+
+쿠버네티스와 같은 컨테이너 오케스트레이션 툴을 사용할 때는 YAML 또는 JSON 파일을 사용해 애플리케이션 설정에 대해 설명하게 된다. 설정 파일은 설정 관리 툴에 컨테이너 이미지의 위치와 네트워크를 구축하는 방법, 로그를 저장할 장소를 알려준다.
+
+새 컨테이너를 배포할 때 컨테이너 관리 도구는 정의된 요구 사항 또는 제한 사항을 고려하여 배포를 클러스터에 자동으로 예약하고 올바른 호스트를 찾는다. 그러면 오케스트레이션 툴이 작성 파일에 정의된 사양에 따라 컨테이너의 라이프사이클을 관리한다.
+
+쿠버네티스 패턴을 사용하여 컨테이너 기반 애플리케이션 및 서비스의 설정, 라이프사이클, 스케일을 관리할 수 있다. 전체 시스템을 구축하려는 쿠버네티스 개발자에게는 이러한 반복 가능한 패턴이 필요하다.
+
+컨테이너 오케스트레이션은 온프레미스 서버와 퍼블릭 또는 프라이빗 클라우드 환경 등 컨테이너를 구동하는 모든 환경에서 사용할 수 있다.
+
+---
