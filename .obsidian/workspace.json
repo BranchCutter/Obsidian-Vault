@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e705a6a69f6939da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "작업중!!!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c0cb3fab1c9f5e6c",
             "type": "leaf",
             "state": {
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -121,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workstation/Deadline 2024-01-10/Install kubernetes.md",
+                "file": "작업중!!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workstation/Deadline 2024-01-10/Install kubernetes.md",
+                "file": "작업중!!!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workstation/Deadline 2024-01-10/Install kubernetes.md"
+                "file": "작업중!!!.md"
               }
             }
           },
@@ -200,11 +211,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78612287d6446e7e",
+  "active": "e705a6a69f6939da",
   "lastOpenFiles": [
-    "Docker(Container)/Container Service.md",
-    "Workstation/Deadline 2024-01-10/Install kubernetes.md",
     "network/2. OSI Reference Model and TCP-IP Basic.md",
+    "작업중!!!.md",
+    "Workstation/Deadline 2024-01-10/Install kubernetes.md",
+    "Docker(Container)/Container Service.md",
     "Workstation/Deadline 2024-01-10/What is container?.md",
     "Kubernetes/Kubernetes.md",
     "Docker(Container)/Cloud Computing.md",
@@ -236,7 +248,6 @@
     "23-2/SpringBoot/SpringBoot 1.md",
     "23-2/SpringBoot",
     "23-2",
-    "Github-Obsidian/network/Network Introduction.md",
     "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
     "Github-Obsidian/network",
