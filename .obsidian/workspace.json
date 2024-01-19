@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "e705a6a69f6939da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "작업중!!!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c0cb3fab1c9f5e6c",
             "type": "leaf",
             "state": {
@@ -65,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "작업중!!!.md",
+                "file": "network/2. OSI Reference Model and TCP-IP Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "작업중!!!.md",
+                "file": "network/2. OSI Reference Model and TCP-IP Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "작업중!!!.md"
+                "file": "network/2. OSI Reference Model and TCP-IP Basic.md"
               }
             }
           },
@@ -211,10 +198,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e705a6a69f6939da",
+  "active": "936d99b8642a30c2",
   "lastOpenFiles": [
-    "network/2. OSI Reference Model and TCP-IP Basic.md",
     "작업중!!!.md",
+    "network/2. OSI Reference Model and TCP-IP Basic.md",
     "Workstation/Deadline 2024-01-10/Install kubernetes.md",
     "Docker(Container)/Container Service.md",
     "Workstation/Deadline 2024-01-10/What is container?.md",
