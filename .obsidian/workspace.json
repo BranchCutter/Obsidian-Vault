@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -201,6 +200,8 @@
   },
   "active": "936d99b8642a30c2",
   "lastOpenFiles": [
+    "test(code template check).md",
+    "network/6. Protocol and Service.md",
     "network/2. OSI Reference Model and TCP-IP Basic.md",
     "작업중!!!.md",
     "Workstation/Deadline 2024-01-10/Install kubernetes.md",
@@ -214,7 +215,6 @@
     "Workstation",
     "김호원.md",
     "Kubernetes",
-    "network/6. Protocol and Service.md",
     "Go/2. Organize code and project.md",
     "Go/1. Easy to learn but Hard to master.md",
     "network/5. Hardware.md",
@@ -233,7 +233,6 @@
     "23-2/SpringBoot/SpringBoot.md",
     "23-2/SpringBoot/SpringBoot 3.md",
     "23-2/SpringBoot/SpringBoot 2.md",
-    "23-2/SpringBoot/SpringBoot 1.md",
     "23-2/SpringBoot",
     "23-2",
     "Untitled.canvas",
