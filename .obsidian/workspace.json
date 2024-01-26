@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Systems/Starting/README.md",
-                "mode": "source",
+                "file": "Computer Systems/Starting/Programs Are Translated by Other Programs into Different Forms.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Systems/Starting/README.md",
+                "file": "Computer Systems/Starting/Programs Are Translated by Other Programs into Different Forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Systems/Starting/README.md",
+                "file": "Computer Systems/Starting/Programs Are Translated by Other Programs into Different Forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Systems/Starting/README.md"
+                "file": "Computer Systems/Starting/Programs Are Translated by Other Programs into Different Forms.md"
               }
             }
           },
@@ -201,6 +201,7 @@
   "active": "936d99b8642a30c2",
   "lastOpenFiles": [
     "Computer Systems/Starting/Information Is Bits.md",
+    "Computer Systems/Starting/Programs Are Translated by Other Programs into Different Forms.md",
     "Computer Systems/Starting/README.md",
     "Computer Systems/README.md",
     "Computer Systems/Starting",
@@ -233,7 +234,6 @@
     "README.md",
     "network",
     "Docker(Container)",
-    "ComputerStructure/Start Computer Structure.md",
     "ComputerStructure",
     "23-2/SpringBoot",
     "Untitled.canvas",
