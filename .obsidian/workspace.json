@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Systems/Starting/Programs Are Translated by Other Programs into Different Forms.md",
-                "mode": "preview",
+                "file": "Computer Systems/Program Structure and Execution/Representing and Manipulating Information/README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Systems/Starting/Programs Are Translated by Other Programs into Different Forms.md",
+                "file": "Computer Systems/Program Structure and Execution/Representing and Manipulating Information/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Systems/Starting/Programs Are Translated by Other Programs into Different Forms.md",
+                "file": "Computer Systems/Program Structure and Execution/Representing and Manipulating Information/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Systems/Starting/Programs Are Translated by Other Programs into Different Forms.md"
+                "file": "Computer Systems/Program Structure and Execution/Representing and Manipulating Information/README.md"
               }
             }
           },
@@ -200,9 +201,20 @@
   },
   "active": "936d99b8642a30c2",
   "lastOpenFiles": [
+    "Computer Systems/Program Structure and Execution/README.md",
+    "Computer Systems/Program Structure and Execution/Representing and Manipulating Information/README.md",
+    "Computer Systems/Program Structure and Execution/Representing and Manipulating Information",
+    "Computer Systems/Starting/1.9 Important Themes.md",
+    "Computer Systems/Program Structure and Execution",
+    "Computer Systems/Starting/1.8 Systems Communicate with Other Systems Using Networks.md",
+    "Computer Systems/Starting/1.7 The Operating System Manages the Hardware.md",
+    "Computer Systems/Starting/1.6 Storage Devices Form a Hierarchy.md",
+    "Computer Systems/Starting/1.5 Caches Matter.md",
+    "Computer Systems/Starting/1.4 Processors Read and Interpret Instructions Stored in Memory.md",
+    "Computer Systems/Starting/1.3 It Pays to Understand How Compilation System Work.md",
+    "Computer Systems/Starting/1.2 Programs Are Translated by Other Programs into Different Forms.md",
+    "Computer Systems/Starting/1.1 Information Is Bits.md",
     "Computer Systems/Starting/hello.c",
-    "Computer Systems/Starting/Information Is Bits.md",
-    "Computer Systems/Starting/Programs Are Translated by Other Programs into Different Forms.md",
     "Computer Systems/Starting/README.md",
     "Computer Systems/README.md",
     "Computer Systems/Starting",
@@ -223,19 +235,8 @@
     "김호원.md",
     "Kubernetes",
     "Go/2. Organize code and project.md",
-    "Go/1. Easy to learn but Hard to master.md",
-    "network/5. Hardware.md",
-    "network/4. Wide Area Network.md",
     "Go",
-    "network/3. Local Area Network.md",
-    "network/1. Network Introduction.md",
-    "스프링으로 인공지능 웹서버 구축.md",
-    "Github-Obsidian/network/OSI Reference Model and TCP-IP Basic.md",
-    "자취.md",
     "network",
-    "Docker(Container)",
-    "ComputerStructure",
-    "23-2/SpringBoot",
     "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
     "Pasted image 20231201081419.png"
