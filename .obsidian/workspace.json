@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Architect/Introduction/Expectation for Architects.md",
+                "file": "Software Architect/Introduction/Intersection of Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Architect/Introduction/Expectation for Architects.md",
+                "file": "Software Architect/Introduction/Intersection of Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Architect/Introduction/Expectation for Architects.md",
+                "file": "Software Architect/Introduction/Intersection of Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Architect/Introduction/Expectation for Architects.md"
+                "file": "Software Architect/Introduction/Intersection of Architecture.md"
               }
             }
           },
@@ -192,8 +191,9 @@
   },
   "active": "2fe2661e03467a8d",
   "lastOpenFiles": [
-    "Software Architect/Introduction/What is Software Architecture.md",
     "Software Architect/Introduction/Expectation for Architects.md",
+    "Software Architect/Introduction/Intersection of Architecture.md",
+    "Software Architect/Introduction/What is Software Architecture.md",
     "Software Architect/Introduction/README.md",
     "Docker(Container)/Container Service.md",
     "Software Architect/Introduction",
@@ -224,7 +224,6 @@
     "Workstation/Deadline 2024-01-10/What is container?.md",
     "Kubernetes/Kubernetes.md",
     "Docker(Container)/Cloud Computing.md",
-    "Workstation/Deadline 2024-01-10/What is Pod?.md",
     "Workstation/Deadline 2024-01-10",
     "Workstation",
     "Kubernetes",
