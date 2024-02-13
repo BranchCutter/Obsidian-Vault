@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Architect/Architecture Thinking/Technical Breadth.md",
+                "file": "Software Architect/Architecture Thinking/Trade-Off Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Architect/Architecture Thinking/Technical Breadth.md",
+                "file": "Software Architect/Architecture Thinking/Trade-Off Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Architect/Architecture Thinking/Technical Breadth.md",
+                "file": "Software Architect/Architecture Thinking/Trade-Off Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Architect/Architecture Thinking/Technical Breadth.md"
+                "file": "Software Architect/Architecture Thinking/Trade-Off Analysis.md"
               }
             }
           },
@@ -191,8 +191,9 @@
   },
   "active": "2fe2661e03467a8d",
   "lastOpenFiles": [
-    "Software Architect/Architecture Thinking/Architecture VS Design.md",
     "Software Architect/Architecture Thinking/Technical Breadth.md",
+    "Software Architect/Architecture Thinking/Trade-Off Analysis.md",
+    "Software Architect/Architecture Thinking/Architecture VS Design.md",
     "Software Architect/Introduction/Intersection of Architecture.md",
     "Software Architect/Introduction/What is Software Architecture.md",
     "Software Architect/Introduction/Software Architecture Rule.md",
@@ -224,7 +225,6 @@
     "network/6. Protocol and Service.md",
     "Computer Systems",
     "test(code template check).md",
-    "network/2. OSI Reference Model and TCP-IP Basic.md",
     "Workstation/Deadline 2024-01-10",
     "Workstation",
     "Untitled.canvas",
