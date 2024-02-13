@@ -13,4 +13,5 @@
 <center>토픽을 이용한 서비스 간 통신</center>
 
 ![](https://i.imgur.com/vpAp39E.png)
-<center></center>
+<center>큐를 이용한 서비스 간 통신</center>
+
