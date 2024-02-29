@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e03e7d84fd786bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "money.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Architect/Architecture Thinking/Trade-Off Analysis.md",
+                "file": "money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Architect/Architecture Thinking/Trade-Off Analysis.md",
+                "file": "money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Architect/Architecture Thinking/Trade-Off Analysis.md"
+                "file": "money.md"
               }
             }
           },
@@ -189,10 +201,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2fe2661e03467a8d",
+  "active": "e03e7d84fd786bd5",
   "lastOpenFiles": [
-    "Software Architect/Architecture Thinking/Technical Breadth.md",
     "Software Architect/Architecture Thinking/Trade-Off Analysis.md",
+    "money.md",
+    "Software Architect/Architecture Thinking/Technical Breadth.md",
     "Software Architect/Architecture Thinking/Architecture VS Design.md",
     "Software Architect/Introduction/Intersection of Architecture.md",
     "Software Architect/Introduction/What is Software Architecture.md",
@@ -224,7 +237,6 @@
     "Computer Systems/Starting",
     "network/6. Protocol and Service.md",
     "Computer Systems",
-    "test(code template check).md",
     "Workstation/Deadline 2024-01-10",
     "Workstation",
     "Untitled.canvas",
