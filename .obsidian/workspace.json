@@ -49,10 +49,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "money.md",
+                "file": "24-1/Scalable-AI/1st Class.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "f8702e2e8f525b82",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -106,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -122,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "money.md",
+                "file": "24-1/Scalable-AI/1st Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "money.md",
+                "file": "24-1/Scalable-AI/1st Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "money.md"
+                "file": "24-1/Scalable-AI/1st Class.md"
               }
             }
           },
@@ -203,8 +212,11 @@
   },
   "active": "e03e7d84fd786bd5",
   "lastOpenFiles": [
-    "Software Architect/Architecture Thinking/Trade-Off Analysis.md",
     "money.md",
+    "24-1/Scalable-AI/1st Class.md",
+    "24-1/Scalable-AI",
+    "24-1",
+    "Software Architect/Architecture Thinking/Trade-Off Analysis.md",
     "Software Architect/Architecture Thinking/Technical Breadth.md",
     "Software Architect/Architecture Thinking/Architecture VS Design.md",
     "Software Architect/Introduction/Intersection of Architecture.md",
@@ -235,10 +247,7 @@
     "Computer Systems/Starting/README.md",
     "Computer Systems/README.md",
     "Computer Systems/Starting",
-    "network/6. Protocol and Service.md",
     "Computer Systems",
-    "Workstation/Deadline 2024-01-10",
-    "Workstation",
     "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
     "Pasted image 20231201081419.png"
