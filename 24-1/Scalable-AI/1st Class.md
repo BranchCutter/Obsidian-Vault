@@ -88,4 +88,3 @@ Pruning, sparsity, quantization, etc
 
 * Natural language, Computer vision, Multimodal, ...
 	* Recent popular models all containers all done
-
