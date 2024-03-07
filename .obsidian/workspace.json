@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-1/Scalable-AI/1st Class.md",
+                "file": "24-1/MLOps/1st Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-1/Scalable-AI/1st Class.md",
+                "file": "24-1/MLOps/1st Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "24-1/Scalable-AI/1st Class.md",
+                "file": "24-1/MLOps/1st Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24-1/Scalable-AI/1st Class.md"
+                "file": "24-1/MLOps/1st Class.md"
               }
             }
           },
@@ -212,8 +211,10 @@
   },
   "active": "e03e7d84fd786bd5",
   "lastOpenFiles": [
-    "money.md",
     "24-1/Scalable-AI/1st Class.md",
+    "24-1/MLOps/1st Class.md",
+    "24-1/MLOps",
+    "money.md",
     "24-1/Scalable-AI",
     "24-1",
     "Software Architect/Architecture Thinking/Trade-Off Analysis.md",
@@ -245,9 +246,7 @@
     "Computer Systems/Starting/1.2 Programs Are Translated by Other Programs into Different Forms.md",
     "Computer Systems/Starting/hello.c",
     "Computer Systems/Starting/README.md",
-    "Computer Systems/README.md",
     "Computer Systems/Starting",
-    "Computer Systems",
     "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
     "Pasted image 20231201081419.png"
