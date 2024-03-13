@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-1/Scalable-AI/Conventional neural networks.md",
+                "file": "24-1/SDS/First meeting.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-1/Scalable-AI/Conventional neural networks.md",
+                "file": "24-1/SDS/First meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "24-1/Scalable-AI/Conventional neural networks.md",
+                "file": "24-1/SDS/First meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24-1/Scalable-AI/Conventional neural networks.md"
+                "file": "24-1/SDS/First meeting.md"
               }
             }
           },
@@ -212,9 +212,11 @@
   },
   "active": "e03e7d84fd786bd5",
   "lastOpenFiles": [
+    "24-1/Scalable-AI/Conventional neural networks.md",
+    "24-1/SDS/First meeting.md",
+    "24-1/SDS",
     "Pasted image 20240312175725.png",
     "24-1/Scalable-AI/2nd Class.md",
-    "24-1/Scalable-AI/Conventional neural networks.md",
     "24-1/MLOps/1st Class.md",
     "24-1/Scalable-AI/1st Class.md",
     "24-1/MLOps",
@@ -247,7 +249,6 @@
     "Computer Systems/Starting/1.5 Caches Matter.md",
     "Computer Systems/Starting/1.4 Processors Read and Interpret Instructions Stored in Memory.md",
     "Computer Systems/Starting/hello.c",
-    "Computer Systems/Starting",
     "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
     "Pasted image 20231201081419.png"
