@@ -1,1 +1,6 @@
-Paper -> Suggestion
+Key Topic
+- 보안 솔루션의 평가와 적용 범위
+- 라이브러리 교체 가능성과 안전성 문제
+
+To-Do
+
