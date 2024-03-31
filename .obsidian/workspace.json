@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Architect/Introduction/README.md",
+                "file": "24-1/Scalable-AI/Scalable-AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Architect/Introduction/README.md",
+                "file": "24-1/Scalable-AI/Scalable-AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Architect/Introduction/README.md",
+                "file": "24-1/Scalable-AI/Scalable-AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Architect/Introduction/README.md"
+                "file": "24-1/Scalable-AI/Scalable-AI.md"
               }
             }
           },
@@ -167,6 +166,13 @@
   },
   "active": "936d99b8642a30c2",
   "lastOpenFiles": [
+    "24-1/Scalable-AI/Conventional neural networks.md",
+    "24-1/Scalable-AI/2nd Class.md",
+    "Workstation/Deadline 2024-01-10/What is Pod?.md",
+    "Workstation/WorkSheet.md",
+    "money.md",
+    "Software Architect/Introduction/README.md",
+    "Pasted image 20240312175725.png",
     "24-1/Scalable-AI/Scalable-AI.md",
     "24-1/MLOps/Script(Data Management).md",
     "24-1/Scalable-AI/pruning.md",
@@ -174,7 +180,6 @@
     "24-1/Summary(24-1).md",
     "24-1/MLOps/1st Class.md",
     "24-1/Scalable-AI/1st Class.md",
-    "Workstation/WorkSheet.md",
     "Docker(Container)/Cloud Computing.md",
     "network/1. Network Introduction.md",
     "Docker(Container)/Container Service.md",
@@ -187,17 +192,11 @@
     "Computer Systems/Starting/1.2 Programs Are Translated by Other Programs into Different Forms.md",
     "Computer Systems/Starting/1.1 Information Is Bits.md",
     "24-1/SDS/First meeting.md",
-    "24-1/Scalable-AI/Conventional neural networks.md",
     "24-1/SDS",
-    "Pasted image 20240312175725.png",
-    "24-1/Scalable-AI/2nd Class.md",
     "24-1/MLOps",
-    "money.md",
     "24-1/Scalable-AI",
     "24-1",
     "Software Architect/Architecture Thinking/Technical Breadth.md",
-    "Software Architect/Architecture Thinking/Architecture VS Design.md",
-    "Software Architect/Introduction/Intersection of Architecture.md",
     "Software Architect/Architecture Thinking",
     "Software Architect/Introduction",
     "Software Architect",
