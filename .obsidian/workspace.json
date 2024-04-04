@@ -11,8 +11,12 @@
             "id": "936d99b8642a30c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "24-1/MLOps/전문가 초청.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "24-1/MLOps/전문가 초청.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "24-1/MLOps/전문가 초청.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "24-1/MLOps/전문가 초청.md"
+              }
             }
           },
           {
@@ -158,6 +166,7 @@
   },
   "active": "936d99b8642a30c2",
   "lastOpenFiles": [
+    "24-1/MLOps/전문가 초청.md",
     "24-1/Scalable-AI/Scalable-AI.md",
     "24-1/Scalable-AI/Conventional neural networks.md",
     "24-1/Scalable-AI/2nd Class.md",
@@ -188,7 +197,6 @@
     "24-1/MLOps",
     "24-1/Scalable-AI",
     "24-1",
-    "Software Architect/Architecture Thinking/Technical Breadth.md",
     "Software Architect/Architecture Thinking",
     "Software Architect/Introduction",
     "Software Architect",
