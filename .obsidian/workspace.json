@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c24c561a5323e61",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "936d99b8642a30c2",
+  "active": "5c24c561a5323e61",
   "lastOpenFiles": [
     "24-1/MLOps/전문가 초청.md",
     "24-1/Scalable-AI/Scalable-AI.md",
