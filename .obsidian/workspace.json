@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-1/Scalable-AI/2nd Class.md",
+                "file": "network/1. Network Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ad08fe2c9f69a43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KIPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-1/Scalable-AI/2nd Class.md",
+                "file": "KIPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "24-1/Scalable-AI/2nd Class.md",
+                "file": "KIPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24-1/Scalable-AI/2nd Class.md"
+                "file": "KIPS.md"
               }
             }
           },
@@ -188,8 +202,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "936d99b8642a30c2",
+  "active": "1ad08fe2c9f69a43",
   "lastOpenFiles": [
+    "network/1. Network Introduction.md",
+    "KIPS.md",
+    "24-1/SDS/First meeting.md",
+    "Computer Systems/Program Structure and Execution/Representing and Manipulating Information/README.md",
+    "24-1/Scalable-AI/2nd Class.md",
+    "24-1/MLOps/1st Class.md",
+    "Go/2. Organize code and project.md",
+    "Go/1. Easy to learn but Hard to master.md",
+    "ComputerStructure/Start Computer Structure.md",
+    "Kubernetes/Kubernetes.md",
     "24-1/Scalable-AI/1st Class.md",
     "24-1/MLOps/전문가 초청.md",
     "백로그 잘 쓰장...md",
@@ -197,7 +221,6 @@
     "24-1/ASK",
     "24-1/Scalable-AI/Scalable-AI.md",
     "24-1/Scalable-AI/Conventional neural networks.md",
-    "24-1/Scalable-AI/2nd Class.md",
     "Workstation/Deadline 2024-01-10/What is Pod?.md",
     "Workstation/WorkSheet.md",
     "money.md",
@@ -207,17 +230,8 @@
     "24-1/Scalable-AI/pruning.md",
     "24-1/MLOps/MLOps.md",
     "24-1/Summary(24-1).md",
-    "24-1/MLOps/1st Class.md",
     "Docker(Container)/Cloud Computing.md",
-    "network/1. Network Introduction.md",
     "Docker(Container)/Container Service.md",
-    "Kubernetes/Kubernetes.md",
-    "Software Architect/Architecture Thinking/Trade-Off Analysis.md",
-    "ComputerStructure/Start Computer Structure.md",
-    "Computer Systems/Starting/1.5 Caches Matter.md",
-    "Computer Systems/Starting/1.4 Processors Read and Interpret Instructions Stored in Memory.md",
-    "Computer Systems/Starting/1.3 It Pays to Understand How Compilation System Work.md",
-    "Computer Systems/Starting/1.2 Programs Are Translated by Other Programs into Different Forms.md",
     "24-1/SDS",
     "24-1/MLOps",
     "24-1/Scalable-AI",

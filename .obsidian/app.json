@@ -1,3 +1,10 @@
 {
-  "attachmentFolderPath": "Github-Obsidian"
+  "attachmentFolderPath": "Github-Obsidian",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
