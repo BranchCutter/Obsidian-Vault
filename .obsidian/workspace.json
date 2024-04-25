@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-1/MLOps/전문가 초청.md",
+                "file": "24-1/Scalable-AI/2nd Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-1/ASK/Untitled.md",
+                "file": "24-1/Scalable-AI/1st Class.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-1/ASK/Untitled.md",
+                "file": "24-1/Scalable-AI/2nd Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "24-1/ASK/Untitled.md",
+                "file": "24-1/Scalable-AI/2nd Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24-1/ASK/Untitled.md"
+                "file": "24-1/Scalable-AI/2nd Class.md"
               }
             }
           },
@@ -189,12 +188,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c96b7eba17e30992",
+  "active": "936d99b8642a30c2",
   "lastOpenFiles": [
+    "24-1/Scalable-AI/1st Class.md",
+    "24-1/MLOps/전문가 초청.md",
     "백로그 잘 쓰장...md",
     "24-1/ASK/Untitled.md",
     "24-1/ASK",
-    "24-1/MLOps/전문가 초청.md",
     "24-1/Scalable-AI/Scalable-AI.md",
     "24-1/Scalable-AI/Conventional neural networks.md",
     "24-1/Scalable-AI/2nd Class.md",
@@ -208,7 +208,6 @@
     "24-1/MLOps/MLOps.md",
     "24-1/Summary(24-1).md",
     "24-1/MLOps/1st Class.md",
-    "24-1/Scalable-AI/1st Class.md",
     "Docker(Container)/Cloud Computing.md",
     "network/1. Network Introduction.md",
     "Docker(Container)/Container Service.md",
