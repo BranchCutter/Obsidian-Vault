@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devocean k8s seminar/OIDC를 이용해 동적으로 Kubernetes 접근 제어하기.md",
+                "file": "Devocean k8s seminar/Kubernetes에게 \"Policy\"이란?.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devocean k8s seminar/OIDC를 이용해 동적으로 Kubernetes 접근 제어하기.md",
+                "file": "Devocean k8s seminar/Kubernetes에게 \"Policy\"이란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Devocean k8s seminar/OIDC를 이용해 동적으로 Kubernetes 접근 제어하기.md",
+                "file": "Devocean k8s seminar/Kubernetes에게 \"Policy\"이란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devocean k8s seminar/OIDC를 이용해 동적으로 Kubernetes 접근 제어하기.md"
+                "file": "Devocean k8s seminar/Kubernetes에게 \"Policy\"이란?.md"
               }
             }
           },
@@ -224,8 +223,9 @@
   },
   "active": "1ad08fe2c9f69a43",
   "lastOpenFiles": [
-    "Devocean k8s seminar/Kubernetes 보안 '그카나마알아'.md",
     "Devocean k8s seminar/OIDC를 이용해 동적으로 Kubernetes 접근 제어하기.md",
+    "Devocean k8s seminar/Kubernetes에게 \"Policy\"이란?.md",
+    "Devocean k8s seminar/Kubernetes 보안 '그카나마알아'.md",
     "Devocean k8s seminar/커뮤니티 소개.md",
     "KIPS.md",
     "Devocean k8s seminar/Devocean k8s seminar.md",
@@ -252,7 +252,6 @@
     "money.md",
     "Software Architect/Introduction/README.md",
     "Pasted image 20240312175725.png",
-    "24-1/MLOps/Script(Data Management).md",
     "24-1/SDS",
     "24-1/MLOps",
     "24-1/Scalable-AI",
