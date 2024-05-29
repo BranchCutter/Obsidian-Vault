@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KIPS.md",
+                "file": "Devocean k8s seminar/Kubernetes 보안 '그카나마알아'.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,6 +57,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "4379a5a97a163afc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4585cf1f37d1ff51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Devocean k8s seminar/Devocean k8s seminar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KIPS.md",
+                "file": "Devocean k8s seminar/Kubernetes 보안 '그카나마알아'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KIPS.md",
+                "file": "Devocean k8s seminar/Kubernetes 보안 '그카나마알아'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KIPS.md"
+                "file": "Devocean k8s seminar/Kubernetes 보안 '그카나마알아'.md"
               }
             }
           },
@@ -204,8 +222,13 @@
   },
   "active": "1ad08fe2c9f69a43",
   "lastOpenFiles": [
-    "network/1. Network Introduction.md",
+    "Devocean k8s seminar/커뮤니티 소개.md",
+    "Devocean k8s seminar/Kubernetes 보안 '그카나마알아'.md",
     "KIPS.md",
+    "Devocean k8s seminar/Devocean k8s seminar.md",
+    "Untitled.md",
+    "Devocean k8s seminar",
+    "network/1. Network Introduction.md",
     "24-1/SDS/First meeting.md",
     "Computer Systems/Program Structure and Execution/Representing and Manipulating Information/README.md",
     "24-1/Scalable-AI/2nd Class.md",
@@ -228,10 +251,6 @@
     "Pasted image 20240312175725.png",
     "24-1/MLOps/Script(Data Management).md",
     "24-1/Scalable-AI/pruning.md",
-    "24-1/MLOps/MLOps.md",
-    "24-1/Summary(24-1).md",
-    "Docker(Container)/Cloud Computing.md",
-    "Docker(Container)/Container Service.md",
     "24-1/SDS",
     "24-1/MLOps",
     "24-1/Scalable-AI",
@@ -240,7 +259,6 @@
     "Software Architect/Introduction",
     "Software Architect",
     "Computer Systems/Program Structure and Execution/Representing and Manipulating Information",
-    "Computer Systems/Program Structure and Execution",
     "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
     "Pasted image 20231201081419.png"
