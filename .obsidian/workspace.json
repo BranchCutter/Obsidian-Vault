@@ -6,7 +6,6 @@
       {
         "id": "7998e61a93d9886c",
         "type": "tabs",
-        "dimension": 53.982843137254896,
         "children": [
           {
             "id": "936d99b8642a30c2",
@@ -26,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devocean k8s seminar/클라우드 워크로드 보안.md",
+                "file": "24-1/MLOps/위동윤 전문가님.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,25 +57,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "4379a5a97a163afc",
-        "type": "tabs",
-        "dimension": 46.0171568627451,
-        "children": [
-          {
-            "id": "4585cf1f37d1ff51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Devocean k8s seminar/Devocean k8s seminar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -142,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devocean k8s seminar/클라우드 워크로드 보안.md",
+                "file": "24-1/MLOps/위동윤 전문가님.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Devocean k8s seminar/클라우드 워크로드 보안.md",
+                "file": "24-1/MLOps/위동윤 전문가님.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devocean k8s seminar/클라우드 워크로드 보안.md"
+                "file": "24-1/MLOps/위동윤 전문가님.md"
               }
             }
           },
@@ -223,8 +204,9 @@
   },
   "active": "1ad08fe2c9f69a43",
   "lastOpenFiles": [
-    "Devocean k8s seminar/Kubernetes에게 \"Policy\"이란?.md",
     "Devocean k8s seminar/클라우드 워크로드 보안.md",
+    "24-1/MLOps/위동윤 전문가님.md",
+    "Devocean k8s seminar/Kubernetes에게 \"Policy\"이란?.md",
     "Devocean k8s seminar/OIDC를 이용해 동적으로 Kubernetes 접근 제어하기.md",
     "Devocean k8s seminar/Kubernetes 보안 '그카나마알아'.md",
     "Devocean k8s seminar/커뮤니티 소개.md",
@@ -250,7 +232,6 @@
     "24-1/Scalable-AI/Conventional neural networks.md",
     "Workstation/Deadline 2024-01-10/What is Pod?.md",
     "Workstation/WorkSheet.md",
-    "money.md",
     "Pasted image 20240312175725.png",
     "24-1/SDS",
     "24-1/MLOps",
