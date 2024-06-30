@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/1. Network Introduction.md",
+                "file": "Kloud School/Pattern Recognition/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/1. Network Introduction.md",
+                "file": "Kloud School/Pattern Recognition/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/1. Network Introduction.md",
+                "file": "Kloud School/Pattern Recognition/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/1. Network Introduction.md"
+                "file": "Kloud School/Pattern Recognition/1. Introduction.md"
               }
             }
           },
@@ -191,6 +191,11 @@
   },
   "active": "936d99b8642a30c2",
   "lastOpenFiles": [
+    "network/1. Network Introduction.md",
+    "Kloud School/Pattern Recognition/1. Introduction.md",
+    "Kloud School/Untitled.md",
+    "Kloud School/Pattern Recognition",
+    "Kloud School",
     "24-1/MLOps/위동윤 전문가님.md",
     "Devocean k8s seminar/클라우드 워크로드 보안.md",
     "Devocean k8s seminar/Kubernetes에게 \"Policy\"이란?.md",
@@ -201,7 +206,6 @@
     "Devocean k8s seminar/Devocean k8s seminar.md",
     "Untitled.md",
     "Devocean k8s seminar",
-    "network/1. Network Introduction.md",
     "24-1/SDS/First meeting.md",
     "Computer Systems/Program Structure and Execution/Representing and Manipulating Information/README.md",
     "24-1/Scalable-AI/2nd Class.md",
@@ -217,8 +221,6 @@
     "24-1/ASK",
     "24-1/Scalable-AI/Scalable-AI.md",
     "24-1/Scalable-AI/Conventional neural networks.md",
-    "Workstation/Deadline 2024-01-10/What is Pod?.md",
-    "Workstation/WorkSheet.md",
     "Pasted image 20240312175725.png",
     "24-1/SDS",
     "24-1/MLOps",
@@ -226,8 +228,6 @@
     "24-1",
     "Software Architect/Architecture Thinking",
     "Software Architect/Introduction",
-    "Software Architect",
-    "Computer Systems/Program Structure and Execution/Representing and Manipulating Information",
     "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
     "Pasted image 20231201081419.png"

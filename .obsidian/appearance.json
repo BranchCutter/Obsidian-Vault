@@ -1,5 +1,6 @@
 {
   "accentColor": "rgba(0, 0, 0, 0)",
   "cssTheme": "Encore",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Chalkboard"
 }
