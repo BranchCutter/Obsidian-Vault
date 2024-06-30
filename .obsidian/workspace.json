@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kloud School/Pattern Recognition/1. Introduction.md",
+                "file": "Kloud School/Pattern Recognition/2. Bayesian Decision Theory/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kloud School/Pattern Recognition/1. Introduction.md",
+                "file": "Kloud School/Pattern Recognition/2. Bayesian Decision Theory/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kloud School/Pattern Recognition/1. Introduction.md",
+                "file": "Kloud School/Pattern Recognition/2. Bayesian Decision Theory/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kloud School/Pattern Recognition/1. Introduction.md"
+                "file": "Kloud School/Pattern Recognition/2. Bayesian Decision Theory/README.md"
               }
             }
           },
@@ -191,8 +190,14 @@
   },
   "active": "936d99b8642a30c2",
   "lastOpenFiles": [
+    "Kloud School/Pattern Recognition/2. Bayesian Decision Theory/2. Bayesian Decision Theory.md",
+    "Kloud School/Pattern Recognition/2. Bayesian Decision Theory/README.md",
+    "Kloud School/Pattern Recognition/1. Introduction/README.md",
+    "Kloud School/Pattern Recognition/2. Bayesian Decision Theory",
+    "Introduction.md",
+    "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
+    "Kloud School/Pattern Recognition/1. Introduction",
     "network/1. Network Introduction.md",
-    "Kloud School/Pattern Recognition/1. Introduction.md",
     "Kloud School/Untitled.md",
     "Kloud School/Pattern Recognition",
     "Kloud School",
@@ -216,18 +221,12 @@
     "Kubernetes/Kubernetes.md",
     "24-1/Scalable-AI/1st Class.md",
     "24-1/MLOps/전문가 초청.md",
-    "백로그 잘 쓰장...md",
-    "24-1/ASK/Untitled.md",
     "24-1/ASK",
-    "24-1/Scalable-AI/Scalable-AI.md",
-    "24-1/Scalable-AI/Conventional neural networks.md",
     "Pasted image 20240312175725.png",
     "24-1/SDS",
     "24-1/MLOps",
     "24-1/Scalable-AI",
     "24-1",
-    "Software Architect/Architecture Thinking",
-    "Software Architect/Introduction",
     "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
     "Pasted image 20231201081419.png"
