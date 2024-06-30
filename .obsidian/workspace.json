@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "1ad08fe2c9f69a43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "24-1/MLOps/위동윤 전문가님.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c982c7289a9314a6",
             "type": "leaf",
             "state": {
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-1/MLOps/위동윤 전문가님.md",
+                "file": "network/1. Network Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "24-1/MLOps/위동윤 전문가님.md",
+                "file": "network/1. Network Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24-1/MLOps/위동윤 전문가님.md"
+                "file": "network/1. Network Introduction.md"
               }
             }
           },
@@ -202,10 +189,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ad08fe2c9f69a43",
+  "active": "936d99b8642a30c2",
   "lastOpenFiles": [
-    "Devocean k8s seminar/클라우드 워크로드 보안.md",
     "24-1/MLOps/위동윤 전문가님.md",
+    "Devocean k8s seminar/클라우드 워크로드 보안.md",
     "Devocean k8s seminar/Kubernetes에게 \"Policy\"이란?.md",
     "Devocean k8s seminar/OIDC를 이용해 동적으로 Kubernetes 접근 제어하기.md",
     "Devocean k8s seminar/Kubernetes 보안 '그카나마알아'.md",
