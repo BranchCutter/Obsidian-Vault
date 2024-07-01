@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "c982c7289a9314a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "백로그 잘 쓰장...md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5a62c174e7d8b4aa",
             "type": "leaf",
             "state": {
@@ -44,6 +32,35 @@
             }
           }
         ]
+      },
+      {
+        "id": "63a3e4093be2c8b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c982c7289a9314a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e483e47518d60f2d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -109,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kloud School/Pattern Recognition/1. Introduction/README.md",
+                "file": "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kloud School/Pattern Recognition/1. Introduction/README.md",
+                "file": "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kloud School/Pattern Recognition/1. Introduction/README.md"
+                "file": "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md"
               }
             }
           },
@@ -188,17 +206,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "936d99b8642a30c2",
+  "active": "e483e47518d60f2d",
   "lastOpenFiles": [
+    "백로그 잘 쓰장...md",
+    "Kloud School/Pattern Recognition/1. Introduction/README.md",
+    "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
     "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation/README.md",
-    "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation/3. Maximum likelihood and Bayesian estimation.md",
     "Kloud School/Pattern Recognition/2. Bayesian Decision Theory/README.md",
+    "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation/3. Maximum likelihood and Bayesian estimation.md",
     "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation",
     "Kloud School/Pattern Recognition/2. Bayesian Decision Theory/2. Bayesian Decision Theory.md",
-    "Kloud School/Pattern Recognition/1. Introduction/README.md",
     "Kloud School/Pattern Recognition/2. Bayesian Decision Theory",
     "Introduction.md",
-    "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
     "Kloud School/Pattern Recognition/1. Introduction",
     "network/1. Network Introduction.md",
     "Kloud School/Untitled.md",
@@ -221,7 +240,6 @@
     "Go/2. Organize code and project.md",
     "Go/1. Easy to learn but Hard to master.md",
     "ComputerStructure/Start Computer Structure.md",
-    "Kubernetes/Kubernetes.md",
     "24-1/ASK",
     "Pasted image 20240312175725.png",
     "24-1/SDS",
