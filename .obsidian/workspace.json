@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-1/Scalable-AI/1st Class.md",
+                "file": "Software Architect/Architecture Thinking/Architecture VS Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-1/Scalable-AI/1st Class.md",
+                "file": "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "24-1/Scalable-AI/1st Class.md",
+                "file": "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24-1/Scalable-AI/1st Class.md"
+                "file": "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md"
               }
             }
           },
@@ -183,10 +182,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a62c174e7d8b4aa",
+  "active": "c982c7289a9314a6",
   "lastOpenFiles": [
-    "Kloud School/Pattern Recognition/1. Introduction/README.md",
+    "Software Architect/Architecture Thinking/Architecture VS Design.md",
+    "Software Architect/Architecture Thinking/README.md",
+    "Workstation/Deadline 2024-01-10/What is container?.md",
+    "Workstation/Deadline 2024-01-10/What is Pod?.md",
+    "Workstation/Deadline 2024-01-10/Install kubernetes.md",
     "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
+    "24-1/Scalable-AI/1st Class.md",
+    "Kloud School/Pattern Recognition/1. Introduction/README.md",
     "백로그 잘 쓰장...md",
     "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation/README.md",
     "Kloud School/Pattern Recognition/2. Bayesian Decision Theory/README.md",
@@ -211,12 +216,6 @@
     "Untitled.md",
     "Devocean k8s seminar",
     "24-1/SDS/First meeting.md",
-    "Computer Systems/Program Structure and Execution/Representing and Manipulating Information/README.md",
-    "24-1/Scalable-AI/2nd Class.md",
-    "24-1/MLOps/1st Class.md",
-    "Go/2. Organize code and project.md",
-    "Go/1. Easy to learn but Hard to master.md",
-    "ComputerStructure/Start Computer Structure.md",
     "24-1/ASK",
     "Pasted image 20240312175725.png",
     "24-1/SDS",
