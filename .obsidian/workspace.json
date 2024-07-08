@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76016e933f1078b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "image.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Architect/Architecture Thinking/Architecture VS Design.md",
+                "file": "image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Architect/Architecture Thinking/Architecture VS Design.md",
+                "file": "image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Architect/Architecture Thinking/Architecture VS Design.md"
+                "file": "image.md"
               }
             }
           },
@@ -164,10 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a62c174e7d8b4aa",
+  "active": "76016e933f1078b9",
   "lastOpenFiles": [
-    "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
+    "image.md",
     "Software Architect/Architecture Thinking/Architecture VS Design.md",
+    "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
     "Software Architect/Architecture Thinking/README.md",
     "Workstation/Deadline 2024-01-10/What is container?.md",
     "Workstation/Deadline 2024-01-10/What is Pod?.md",
@@ -197,7 +211,6 @@
     "Devocean k8s seminar/Devocean k8s seminar.md",
     "Untitled.md",
     "Devocean k8s seminar",
-    "24-1/SDS/First meeting.md",
     "24-1/ASK",
     "Pasted image 20240312175725.png",
     "24-1/SDS",
