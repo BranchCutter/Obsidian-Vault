@@ -106,3 +106,6 @@ UML (Unified Modeling Language)
 ## 컴퓨터 구조
 
 메인보드와 시스템 버스
+
+---
+## 알고리즘
