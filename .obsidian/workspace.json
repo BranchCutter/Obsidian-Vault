@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2764a9c7a536bd13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kloud School/1st time.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "image.md",
+                "file": "Kloud School/1st time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "image.md",
+                "file": "Kloud School/1st time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "image.md"
+                "file": "Kloud School/1st time.md"
               }
             }
           },
@@ -177,9 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76016e933f1078b9",
+  "active": "2764a9c7a536bd13",
   "lastOpenFiles": [
+    "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation/README.md",
+    "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation/3. Maximum likelihood and Bayesian estimation.md",
+    "Kloud School/1st time.md",
     "image.md",
+    "KloudSchool",
     "Software Architect/Architecture Thinking/Architecture VS Design.md",
     "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
     "Software Architect/Architecture Thinking/README.md",
@@ -189,9 +205,7 @@
     "24-1/Scalable-AI/1st Class.md",
     "Kloud School/Pattern Recognition/1. Introduction/README.md",
     "백로그 잘 쓰장...md",
-    "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation/README.md",
     "Kloud School/Pattern Recognition/2. Bayesian Decision Theory/README.md",
-    "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation/3. Maximum likelihood and Bayesian estimation.md",
     "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation",
     "Kloud School/Pattern Recognition/2. Bayesian Decision Theory/2. Bayesian Decision Theory.md",
     "Kloud School/Pattern Recognition/2. Bayesian Decision Theory",
@@ -209,13 +223,11 @@
     "Devocean k8s seminar/커뮤니티 소개.md",
     "KIPS.md",
     "Devocean k8s seminar/Devocean k8s seminar.md",
-    "Untitled.md",
     "Devocean k8s seminar",
     "24-1/ASK",
     "Pasted image 20240312175725.png",
     "24-1/SDS",
     "24-1/MLOps",
-    "24-1/Scalable-AI",
     "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
     "Pasted image 20231201081419.png"
