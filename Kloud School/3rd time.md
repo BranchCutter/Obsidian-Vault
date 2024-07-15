@@ -210,3 +210,5 @@ Pseudo direct addressing
 ![](https://i.imgur.com/0mtK6Hj.png)
 상위 비트는 현재 PC에서 가져오고, 하위 26비트는 명령어에서 가져와서 유효 주소를 계산
 
+Stack
+![](https://i.imgur.com/N7Bwruc.png)
