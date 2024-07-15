@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kloud School/1st time.md",
+                "file": "Kloud School/3rd time.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kloud School/1st time.md",
+                "file": "Kloud School/3rd time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kloud School/1st time.md",
+                "file": "Kloud School/3rd time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kloud School/1st time.md"
+                "file": "Kloud School/3rd time.md"
               }
             }
           },
@@ -189,11 +190,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2764a9c7a536bd13",
+  "active": "c96b7eba17e30992",
   "lastOpenFiles": [
+    "Kloud School/1st time.md",
+    "Kloud School/3rd time.md",
     "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation/README.md",
     "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation/3. Maximum likelihood and Bayesian estimation.md",
-    "Kloud School/1st time.md",
     "image.md",
     "KloudSchool",
     "Software Architect/Architecture Thinking/Architecture VS Design.md",
@@ -212,7 +214,6 @@
     "Introduction.md",
     "Kloud School/Pattern Recognition/1. Introduction",
     "network/1. Network Introduction.md",
-    "Kloud School/Untitled.md",
     "Kloud School/Pattern Recognition",
     "Kloud School",
     "24-1/MLOps/위동윤 전문가님.md",
