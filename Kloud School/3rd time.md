@@ -212,3 +212,8 @@ Pseudo direct addressing
 
 Stack
 ![](https://i.imgur.com/N7Bwruc.png)
+
+---
+## Algorithm
+
+### MST
