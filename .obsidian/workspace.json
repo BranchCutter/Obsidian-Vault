@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f0b1877d52a97c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes loadbalancer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kloud School/3rd time.md",
+                "file": "Kubernetes loadbalancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kloud School/3rd time.md",
+                "file": "Kubernetes loadbalancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kloud School/3rd time.md"
+                "file": "Kubernetes loadbalancer.md"
               }
             }
           },
@@ -190,15 +202,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c96b7eba17e30992",
+  "active": "1f0b1877d52a97c6",
   "lastOpenFiles": [
+    "Kubernetes loadbalancer.md",
+    "Software Architect/Architecture Thinking/Architecture VS Design.md",
     "Kloud School/1st time.md",
     "Kloud School/3rd time.md",
     "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation/README.md",
     "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation/3. Maximum likelihood and Bayesian estimation.md",
     "image.md",
     "KloudSchool",
-    "Software Architect/Architecture Thinking/Architecture VS Design.md",
     "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
     "Software Architect/Architecture Thinking/README.md",
     "Workstation/Deadline 2024-01-10/What is container?.md",
@@ -223,7 +236,6 @@
     "Devocean k8s seminar/Kubernetes 보안 '그카나마알아'.md",
     "Devocean k8s seminar/커뮤니티 소개.md",
     "KIPS.md",
-    "Devocean k8s seminar/Devocean k8s seminar.md",
     "Devocean k8s seminar",
     "24-1/ASK",
     "Pasted image 20240312175725.png",
