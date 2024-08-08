@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG.md",
+                "file": "KloudSchool/Network/Chapter 1. Starting Network/1.1 네트워크 구성도.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RAG.md",
+                "file": "KloudSchool/Network/Chapter 1. Starting Network/1.1 네트워크 구성도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RAG.md",
+                "file": "KloudSchool/Network/Chapter 1. Starting Network/1.1 네트워크 구성도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RAG.md"
+                "file": "KloudSchool/Network/Chapter 1. Starting Network/1.1 네트워크 구성도.md"
               }
             }
           },
@@ -245,9 +245,14 @@
   },
   "active": "ef0576d73b18b15c",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "RAG.md",
     "Kubernetes/ㅡKubernetes.md",
+    "KloudSchool/Network/Chapter 1. Starting Network/1.1 네트워크 구성도.md",
+    "KloudSchool/Network/Network Index.md",
+    "KloudSchool/Network/Chapter 1. Starting Network",
+    "KloudSchool/Network",
+    "RAG.md",
+    "Untitled",
+    "Untitled 1.md",
     "Kubernetes load balancer.md",
     "24-1/MLOps/위동윤 전문가님.md",
     "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
@@ -277,13 +282,8 @@
     "network/1. Network Introduction.md",
     "Kloud School/Pattern Recognition",
     "Kloud School",
-    "Devocean k8s seminar/클라우드 워크로드 보안.md",
-    "Devocean k8s seminar/Kubernetes에게 \"Policy\"이란?.md",
     "Devocean k8s seminar",
-    "24-1/ASK",
     "Pasted image 20240312175725.png",
-    "24-1/SDS",
-    "24-1/MLOps",
     "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
     "Pasted image 20231201081419.png"
