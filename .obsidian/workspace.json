@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef0576d73b18b15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "7c24f355e6c5d25d",
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "RAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "RAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "RAG.md"
               }
             }
           },
@@ -231,10 +243,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca996872889b668a",
+  "active": "ef0576d73b18b15c",
   "lastOpenFiles": [
-    "Kubernetes/ㅡKubernetes.md",
     "Untitled 1.md",
+    "RAG.md",
+    "Kubernetes/ㅡKubernetes.md",
     "Kubernetes load balancer.md",
     "24-1/MLOps/위동윤 전문가님.md",
     "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
@@ -266,7 +279,6 @@
     "Kloud School",
     "Devocean k8s seminar/클라우드 워크로드 보안.md",
     "Devocean k8s seminar/Kubernetes에게 \"Policy\"이란?.md",
-    "Devocean k8s seminar/OIDC를 이용해 동적으로 Kubernetes 접근 제어하기.md",
     "Devocean k8s seminar",
     "24-1/ASK",
     "Pasted image 20240312175725.png",
