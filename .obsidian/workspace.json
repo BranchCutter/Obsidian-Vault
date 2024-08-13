@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KloudSchool/Network/Chapter 1. Starting Network/1.1 네트워크 구성도.md",
+                "file": "hackaton/Kubernetes/Install Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,24 +81,6 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "7c24f355e6c5d25d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7355911530c3ca0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/ㅡKubernetes.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KloudSchool/Network/Chapter 1. Starting Network/1.1 네트워크 구성도.md",
+                "file": "hackaton/Kubernetes/Install Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KloudSchool/Network/Chapter 1. Starting Network/1.1 네트워크 구성도.md",
+                "file": "hackaton/Kubernetes/Install Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KloudSchool/Network/Chapter 1. Starting Network/1.1 네트워크 구성도.md"
+                "file": "hackaton/Kubernetes/Install Kubernetes.md"
               }
             }
           },
@@ -245,15 +227,18 @@
   },
   "active": "ef0576d73b18b15c",
   "lastOpenFiles": [
+    "hackaton/Kubernetes/Untitled.md",
+    "hackaton/Kubernetes/Install Kubernetes.md",
+    "hackaton/Kubernetes",
+    "KloudSchool/Network/Chapter 1. Starting Network/1.1 네트워크 구성도.md",
+    "hackaton",
     "Pasted image 20240813030118.png",
     "Pasted image 20240813030051.png",
     "Kubernetes/ㅡKubernetes.md",
-    "KloudSchool/Network/Chapter 1. Starting Network/1.1 네트워크 구성도.md",
     "KloudSchool/Network/Network Index.md",
     "KloudSchool/Network/Chapter 1. Starting Network",
     "KloudSchool/Network",
     "RAG.md",
-    "Untitled",
     "Untitled 1.md",
     "Kubernetes load balancer.md",
     "24-1/MLOps/위동윤 전문가님.md",
@@ -277,13 +262,10 @@
     "백로그 잘 쓰장...md",
     "Kloud School/Pattern Recognition/2. Bayesian Decision Theory/README.md",
     "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation",
-    "Kloud School/Pattern Recognition/2. Bayesian Decision Theory/2. Bayesian Decision Theory.md",
     "Kloud School/Pattern Recognition/2. Bayesian Decision Theory",
-    "Introduction.md",
     "Kloud School/Pattern Recognition/1. Introduction",
     "Kloud School/Pattern Recognition",
     "Kloud School",
-    "Devocean k8s seminar",
     "Pasted image 20240312175725.png",
     "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
