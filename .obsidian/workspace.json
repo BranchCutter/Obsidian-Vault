@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Architect/Architecture Thinking/Architecture VS Design.md",
+                "file": "network/1. Network Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e51c81dca30edf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,31 +68,19 @@
             }
           },
           {
-            "id": "ca996872889b668a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ef0576d73b18b15c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hackaton/Kubernetes/Install Kubernetes.md",
+                "file": "hackaton/Argo/Argo CD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hackaton/Kubernetes/Install Kubernetes.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hackaton/Kubernetes/Install Kubernetes.md",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hackaton/Kubernetes/Install Kubernetes.md"
+                "file": "Untitled 2.md"
               }
             }
           },
@@ -225,10 +225,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef0576d73b18b15c",
+  "active": "3e51c81dca30edf5",
   "lastOpenFiles": [
-    "hackaton/Kubernetes/Untitled.md",
+    "network/1. Network Introduction.md",
+    "Untitled 2.md",
+    "Software Architect/Introduction/Expectation for Architects.md",
+    "RAG.md",
+    "README.md",
+    "money.md",
+    "k8s load balancing.md",
+    "image.md",
+    "Introduction.md",
+    "Software Architect/Architecture Thinking/Technical Breadth.md",
+    "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
+    "ComputerStructure/Start Computer Structure.md",
+    "24-1/Scalable-AI/1st Class.md",
+    "Software Architect/Architecture Thinking/Architecture VS Design.md",
+    "Kubernetes load balancer.md",
+    "Kloud School/3rd time.md",
+    "hackaton/Argo/Argo CD.md",
     "hackaton/Kubernetes/Install Kubernetes.md",
+    "hackaton/Argo",
+    "hackaton/Kubernetes/Untitled.md",
     "hackaton/Kubernetes",
     "KloudSchool/Network/Chapter 1. Starting Network/1.1 네트워크 구성도.md",
     "hackaton",
@@ -238,34 +256,17 @@
     "KloudSchool/Network/Network Index.md",
     "KloudSchool/Network/Chapter 1. Starting Network",
     "KloudSchool/Network",
-    "RAG.md",
     "Untitled 1.md",
-    "Kubernetes load balancer.md",
     "24-1/MLOps/위동윤 전문가님.md",
-    "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
-    "k8s load balancing.md",
     "Pasted image 20240729124244.png",
     "Pasted image 20240729124154.png",
-    "Software Architect/Architecture Thinking/Architecture VS Design.md",
     "Kloud School/1st time.md",
-    "Kloud School/3rd time.md",
     "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation/README.md",
-    "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation/3. Maximum likelihood and Bayesian estimation.md",
-    "image.md",
     "KloudSchool",
-    "Software Architect/Architecture Thinking/README.md",
-    "Workstation/Deadline 2024-01-10/What is container?.md",
-    "Workstation/Deadline 2024-01-10/What is Pod?.md",
-    "Workstation/Deadline 2024-01-10/Install kubernetes.md",
-    "24-1/Scalable-AI/1st Class.md",
-    "Kloud School/Pattern Recognition/1. Introduction/README.md",
-    "백로그 잘 쓰장...md",
-    "Kloud School/Pattern Recognition/2. Bayesian Decision Theory/README.md",
     "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation",
     "Kloud School/Pattern Recognition/2. Bayesian Decision Theory",
     "Kloud School/Pattern Recognition/1. Introduction",
     "Kloud School/Pattern Recognition",
-    "Kloud School",
     "Pasted image 20240312175725.png",
     "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
