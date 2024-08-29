@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8585a7aabdae87d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SBC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전생했더니 SRI 수용 당하게 생긴 건에 대하여.md",
+                "file": "SBC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "전생했더니 SRI 수용 당하게 생긴 건에 대하여.md",
+                "file": "SBC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전생했더니 SRI 수용 당하게 생긴 건에 대하여.md"
+                "file": "SBC.md"
               }
             }
           },
@@ -237,9 +249,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "977d85ae1b4df1af",
+  "active": "8585a7aabdae87d8",
   "lastOpenFiles": [
     "network/1. Network Introduction.md",
+    "SBC.md",
     "전생했더니 SRI 수용 당하게 생긴 건에 대하여.md",
     "Untitled 2.md",
     "Software Architect/Introduction/Expectation for Architects.md",
@@ -273,7 +286,6 @@
     "24-1/MLOps/위동윤 전문가님.md",
     "Pasted image 20240729124244.png",
     "Pasted image 20240729124154.png",
-    "Kloud School/1st time.md",
     "KloudSchool",
     "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation",
     "Kloud School/Pattern Recognition/2. Bayesian Decision Theory",
