@@ -102,9 +102,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc372bc4b1774518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSPM (Gartner).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92e241d495a63822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSPM (Gartner).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SBC.md",
+                "file": "CSPM (Gartner).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SBC.md",
+                "file": "CSPM (Gartner).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SBC.md"
+                "file": "CSPM (Gartner).md"
               }
             }
           },
@@ -249,10 +273,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8585a7aabdae87d8",
+  "active": "dc372bc4b1774518",
   "lastOpenFiles": [
-    "network/1. Network Introduction.md",
+    "CSPM (Gartner).md",
     "SBC.md",
+    "network/1. Network Introduction.md",
     "전생했더니 SRI 수용 당하게 생긴 건에 대하여.md",
     "Untitled 2.md",
     "Software Architect/Introduction/Expectation for Architects.md",
@@ -283,7 +308,6 @@
     "KloudSchool/Network/Chapter 1. Starting Network",
     "KloudSchool/Network",
     "Untitled 1.md",
-    "24-1/MLOps/위동윤 전문가님.md",
     "Pasted image 20240729124244.png",
     "Pasted image 20240729124154.png",
     "KloudSchool",
