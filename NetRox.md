@@ -24,3 +24,6 @@ HTTPS Encrpytion Decryption
 
 L7으로 확장중
 
+---
+O-RAN
+-> IPSEC Service Mesh
