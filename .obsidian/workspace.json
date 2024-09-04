@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NetRox.md",
+                "file": "NetLOX.md",
                 "mode": "source",
                 "source": false
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NetRox.md",
+                "file": "NetLOX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NetRox.md",
+                "file": "NetLOX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NetRox.md"
+                "file": "NetLOX.md"
               }
             }
           },
@@ -301,7 +301,7 @@
   "active": "fe379694ee5722bb",
   "lastOpenFiles": [
     "Untitled 3.md",
-    "NetRox.md",
+    "NetLOX.md",
     "CSPM (Gartner).md",
     "SBC.md",
     "network/1. Network Introduction.md",

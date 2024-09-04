@@ -11,7 +11,7 @@ Security -> ACL 수준
 
 국내에서는 보안에 관심이 많음
 
-파이오링크
+PIOLINK
 
 LANDSCAPE -> SDS 클라우드에 탑재
 
@@ -27,3 +27,52 @@ L7으로 확장중
 ---
 O-RAN
 -> IPSEC Service Mesh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Christopher Adigun - nephio
+Proxmox Introduction
+
+**Nephio Release 3 On Proxmox Introduction**
+
+---
+**ms retina github**
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
