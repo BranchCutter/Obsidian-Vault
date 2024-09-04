@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28f50d918e53796a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSPM (Gartner).md",
+                "file": "Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSPM (Gartner).md",
+                "file": "Untitled 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSPM (Gartner).md"
+                "file": "Untitled 3.md"
               }
             }
           },
@@ -273,8 +285,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc372bc4b1774518",
+  "active": "28f50d918e53796a",
   "lastOpenFiles": [
+    "Untitled 3.md",
     "CSPM (Gartner).md",
     "SBC.md",
     "network/1. Network Introduction.md",
@@ -307,7 +320,6 @@
     "KloudSchool/Network/Network Index.md",
     "KloudSchool/Network/Chapter 1. Starting Network",
     "KloudSchool/Network",
-    "Untitled 1.md",
     "Pasted image 20240729124244.png",
     "Pasted image 20240729124154.png",
     "KloudSchool",
