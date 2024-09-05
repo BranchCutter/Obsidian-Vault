@@ -140,12 +140,12 @@
             }
           },
           {
-            "id": "fe379694ee5722bb",
+            "id": "24c84af8bebb6267",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NetLOX.md",
+                "file": "SCIE/RLLB/Initial Project Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -219,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NetLOX.md",
+                "file": "SCIE/RLLB/Initial Project Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NetLOX.md",
+                "file": "SCIE/RLLB/Initial Project Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NetLOX.md"
+                "file": "SCIE/RLLB/Initial Project Design.md"
               }
             }
           },
@@ -298,9 +297,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe379694ee5722bb",
+  "active": "24c84af8bebb6267",
   "lastOpenFiles": [
     "Untitled 3.md",
+    "SCIE/RLLB/Initial Project Design.md",
+    "SCIE/RLLB",
+    "SCIE",
+    "Untitled.canvas",
     "NetLOX.md",
     "CSPM (Gartner).md",
     "SBC.md",
@@ -330,7 +333,6 @@
     "hackaton",
     "Pasted image 20240813030118.png",
     "Pasted image 20240813030051.png",
-    "Kubernetes/ㅡKubernetes.md",
     "KloudSchool/Network/Chapter 1. Starting Network",
     "KloudSchool/Network",
     "Pasted image 20240729124244.png",
@@ -338,10 +340,7 @@
     "KloudSchool",
     "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation",
     "Kloud School/Pattern Recognition/2. Bayesian Decision Theory",
-    "Kloud School/Pattern Recognition/1. Introduction",
-    "Kloud School/Pattern Recognition",
     "Pasted image 20240312175725.png",
-    "Untitled.canvas",
     "Github-Obsidian/Untitled.canvas",
     "Pasted image 20231201081419.png"
   ]
