@@ -294,14 +294,14 @@
 
 x = timestamp
 y = count_of_packet (in each interface)
-	gi1
-	gi10
-	gi2
-	gi3
-	gi4
-	gi5
-	gi6
-	gi7
-	gi8
-	gi9
+	gi1 : interface1
+	gi10 : interface10
+	gi2 : interface2
+	gi3 : interface3
+	gi4 : interface4
+	gi5 : interface5
+	gi6 : interface6
+	gi7 : interface7
+	gi8 : interface8
+	gi9 : interface9
 	
