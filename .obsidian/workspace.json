@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCIE/RLLB/Initial Project Design.md",
+                "file": "NMS Switch data.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,14 +157,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NMS Switch data.md",
+                "file": "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -309,29 +309,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a0647cdcfd576f0",
+  "active": "24c84af8bebb6267",
   "lastOpenFiles": [
-    "NMS Switch data.md",
+    "KIPS.md",
+    "k8s load balancing.md",
     "SCIE/RLLB/Initial Project Design.md",
+    "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
+    "전생했더니 SRI 수용 당하게 생긴 건에 대하여.md",
+    "Untitled.canvas",
+    "NMS Switch data.md",
     "Untitled 3.md",
     "SCIE/RLLB",
     "SCIE",
-    "Untitled.canvas",
     "NetLOX.md",
     "CSPM (Gartner).md",
     "SBC.md",
     "network/1. Network Introduction.md",
-    "전생했더니 SRI 수용 당하게 생긴 건에 대하여.md",
     "Untitled 2.md",
     "Software Architect/Introduction/Expectation for Architects.md",
     "RAG.md",
     "README.md",
     "money.md",
-    "k8s load balancing.md",
     "image.md",
     "Introduction.md",
     "Software Architect/Architecture Thinking/Technical Breadth.md",
-    "Kloud School/Pattern Recognition/1. Introduction/1. Introduction.md",
     "ComputerStructure/Start Computer Structure.md",
     "24-1/Scalable-AI/1st Class.md",
     "Software Architect/Architecture Thinking/Architecture VS Design.md",
@@ -340,7 +341,6 @@
     "hackaton/Argo/Argo CD.md",
     "hackaton/Kubernetes/Install Kubernetes.md",
     "hackaton/Argo",
-    "hackaton/Kubernetes/Untitled.md",
     "hackaton/Kubernetes",
     "hackaton",
     "Pasted image 20240813030118.png",
