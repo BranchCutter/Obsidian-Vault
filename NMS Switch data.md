@@ -304,4 +304,3 @@ y = count_of_packet (in each interface)
 	gi7 : interface7
 	gi8 : interface8
 	gi9 : interface9
-	
