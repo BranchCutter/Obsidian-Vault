@@ -150,9 +150,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a0647cdcfd576f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NMS Switch data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCIE/RLLB/Initial Project Design.md",
+                "file": "NMS Switch data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCIE/RLLB/Initial Project Design.md",
+                "file": "NMS Switch data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCIE/RLLB/Initial Project Design.md"
+                "file": "NMS Switch data.md"
               }
             }
           },
@@ -297,10 +309,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24c84af8bebb6267",
+  "active": "0a0647cdcfd576f0",
   "lastOpenFiles": [
-    "Untitled 3.md",
+    "NMS Switch data.md",
     "SCIE/RLLB/Initial Project Design.md",
+    "Untitled 3.md",
     "SCIE/RLLB",
     "SCIE",
     "Untitled.canvas",
@@ -329,7 +342,6 @@
     "hackaton/Argo",
     "hackaton/Kubernetes/Untitled.md",
     "hackaton/Kubernetes",
-    "KloudSchool/Network/Chapter 1. Starting Network/1.1 네트워크 구성도.md",
     "hackaton",
     "Pasted image 20240813030118.png",
     "Pasted image 20240813030051.png",
