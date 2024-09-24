@@ -162,9 +162,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f800cfee983c1948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maestro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6351cba09e29f70",
@@ -230,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BoanLab/Paper Review/Automated Dos Penetration Testing Using Deep Q Learning Network - Quantile Regression Deep Q Learning Network Algorithms.md",
+                "file": "Maestro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BoanLab/Paper Review/Automated Dos Penetration Testing Using Deep Q Learning Network - Quantile Regression Deep Q Learning Network Algorithms.md",
+                "file": "Maestro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BoanLab/Paper Review/Automated Dos Penetration Testing Using Deep Q Learning Network - Quantile Regression Deep Q Learning Network Algorithms.md"
+                "file": "Maestro.md"
               }
             }
           },
@@ -309,11 +322,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c96b7eba17e30992",
+  "active": "f800cfee983c1948",
   "lastOpenFiles": [
+    "BoanLab/Paper Review/Automated Dos Penetration Testing Using Deep Q Learning Network - Quantile Regression Deep Q Learning Network Algorithms.md",
+    "Maestro.md",
     "BoanLab",
     "NMS Switch data.md",
-    "BoanLab/Paper Review/Automated Dos Penetration Testing Using Deep Q Learning Network - Quantile Regression Deep Q Learning Network Algorithms.md",
     "BoanLab/Paper Review",
     "K-means.md",
     "KIPS.md",
@@ -351,7 +365,6 @@
     "Pasted image 20240729124244.png",
     "Pasted image 20240729124154.png",
     "KloudSchool",
-    "Kloud School/Pattern Recognition/3. Maximum likelihood and Bayesian estimation",
     "Pasted image 20240312175725.png",
     "Github-Obsidian/Untitled.canvas",
     "Pasted image 20231201081419.png"
