@@ -23,6 +23,31 @@ Paper Guide
 ### B. Additional Experimental Setting
 
 ### C. Exhaustive Search
+---
+# SyzVegaS: Beating Kernel Fuzzing Odds with Reinforcement Learning
+
+
+### Introduction
+### Background and Motivation
+#### Syzkaller
+#### Observations and Intuition
+#### Multi-armed Bandit Problem
+### Design and Implementation
+#### Reward Assessment
+#### Task Selection
+#### Seed Selection
+#### Implementation
+### Evaluation
+#### Fuzzing the Linux Kernel for 24 hours
+#### Fuzzing with Various Setups
+#### Applicability of SyzVEGAS's seed-selection in user-space
+### Discussion & Future Work
+### Related Work
+### Conclusions
+
+
+
+
 
 
 
