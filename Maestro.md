@@ -27,11 +27,11 @@ Paper Guide
 # SyzVegaS: Beating Kernel Fuzzing Odds with Reinforcement Learning
 
 
-### Introduction
-### Background and Motivation
-#### Syzkaller
-#### Observations and Intuition
-#### Multi-armed Bandit Problem
+### 1. Introduction
+### 2. Background and Motivation
+#### 3. Syzkaller
+#### 3.1 Observations and Intuition
+#### 3.2 Multi-armed Bandit Problem
 ### Design and Implementation
 #### Reward Assessment
 #### Task Selection
