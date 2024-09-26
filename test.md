@@ -164,7 +164,7 @@ $ kubectl get pod -n cryptoobserver
 
 ![CHECK_DEPLOYMENT](./resources/image13.png)
 
-## 3. Usage
+# 3. Usage
 
 To access the system's dashboard, first identify the access IP and port.
 
@@ -185,7 +185,48 @@ $ kubectl get service -n cryptoobserver
 ![CHECK_PORT](./resources/image15.png)
 
 Now, use the obtained IP and port to access the dashboard in a web browser.
-# 4. TLS Sessions
+
+## 3.1 Topology
+
+The Topology page provides both graphical and tabular representations of all encryption algorithms used in service communication.
+
+### 3.1.1 Screen Layout
+
+The Topology page displays the following information:
+
+1. **Navigation Bar**: Allows switching between features like Topology, TLS Session, Key Management, and TLS Verification.
+2. **Topology Graph**: Shows the currently active session or the most recently connected session in a graph.
+3. **Dashboard Table**: Shows detailed information about the active or most recent session.
+
+### Dashboard Table Detailed Information
+
+| Source Namespace | Source Name | Source IP | Source Port | Destination Namespace | Destination Name | Destination IP | Destination Port | TLS Version | Cipher Suite | Certificate Signature |
+
+By selecting an element from the topology graph or the dashboard table, additional information about the connection is displayed:
+
+| Service Metadata | Service Resource Type |
+
+### 3.1.2 Search
+
+If you need to search for specific session information, you can use the search function. After searching, the topology graph and dashboard table will update with the relevant results.
+
+### Example of Search Criteria
+
+For instance, you could search by source type, TLS version, or other key parameters. The results will filter sessions based on the criteria.
+
+### 3.1.3 Vulnerable Encryption Detection
+
+The Topology page provides a color-coded display to indicate encryption security:
+
+- **Green**: Secure encryption is applied.
+- **Yellow**: Vulnerable encryption is applied, but encryption is still present.
+- **Red**: No encryption is applied.
+
+When viewing the detailed connection information page, you will also see which specific encryption elements are marked as vulnerable or non-vulnerable. Vulnerability information is available for every encryption session in the system.
+
+This feature allows you to immediately identify weak encryption algorithms and take corrective actions where necessary.
+ 
+## 3.2 TLS Sessions
 
 The TLS Sessions page provides detailed information about all encryption algorithms used during service communication.
 
