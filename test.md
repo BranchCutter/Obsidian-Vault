@@ -88,7 +88,7 @@ $ kubectl get pod -A
 
 Before building container images, Docker must be installed.
 
-### a. Crypto Inspector
+### 2.1.1 Crypto Inspector
 
 Navigate to the Crypto Inspector folder:
 
@@ -114,7 +114,7 @@ $ sudo ctr image ls
 ```
 
 ![CHECK_IMAGE](./resources/image08.png)
-### b. Crypto Observer
+### 2.1.2 Crypto Observer
 
 Navigate to the Crypto Observer folder:
 
@@ -168,7 +168,7 @@ $ kubectl get pod -n cryptoobserver
 
 To access the system's dashboard, first identify the access IP and port.
 
-### a. Get Access IP
+Get Access IP
 
 ```bash
 $ kubectl get node -o wide
@@ -176,7 +176,7 @@ $ kubectl get node -o wide
 
 ![CHECK_IP](./resources/image14.png)
 
-### b. Get Access Port
+Get Access Port
 
 ```bash
 $ kubectl get service -n cryptoobserver
@@ -198,11 +198,13 @@ The Topology page displays the following information:
 2. **Topology Graph**: Shows the currently active session or the most recently connected session in a graph.
 3. **Dashboard Table**: Shows detailed information about the active or most recent session.
 
+![TOPOLOGY_VIEW_LAYOUT](./resources/image16.png)
 ### Dashboard Table Detailed Information
 
 | Source Namespace | Source Name | Source IP | Source Port | Destination Namespace | Destination Name | Destination IP | Destination Port | TLS Version | Cipher Suite | Certificate Signature |
 
 By selecting an element from the topology graph or the dashboard table, additional information about the connection is displayed:
+![SEARCH_RESULT_DETAIL](./resources/image17.png)
 
 | Service Metadata | Service Resource Type |
 
@@ -210,9 +212,13 @@ By selecting an element from the topology graph or the dashboard table, addition
 
 If you need to search for specific session information, you can use the search function. After searching, the topology graph and dashboard table will update with the relevant results.
 
+![SEARCH_FUNCTION](./resources/image18.png)
+
 ### Example of Search Criteria
 
 For instance, you could search by source type, TLS version, or other key parameters. The results will filter sessions based on the criteria.
+
+![SEARCH_APPLIED](./resources/image19.png)
 
 ### 3.1.3 Vulnerable Encryption Detection
 
@@ -224,46 +230,43 @@ The Topology page provides a color-coded display to indicate encryption security
 
 When viewing the detailed connection information page, you will also see which specific encryption elements are marked as vulnerable or non-vulnerable. Vulnerability information is available for every encryption session in the system.
 
+![DETAIL_PAGE_SHOW_WEAKNESS](./resources/image20.png)
+
 This feature allows you to immediately identify weak encryption algorithms and take corrective actions where necessary.
  
 ## 3.2 TLS Sessions
 
 The TLS Sessions page provides detailed information about all encryption algorithms used during service communication.
 
-## 4.1 Screen Layout
+### 3.2.1 Screen Layout
 
 The TLS Sessions page displays the following information:
 
 - Dashboard Table: Detailed information of active or recently connected sessions.
 
-```bash
-# Example command to view sessions
-$ kubectl get pod -n cryptoobserver
-```
+![TLS_SESSION_EXAMPLE](./resources/image21.png)
 
-## 4.2 Searching
+### 3.2.2 Searching
 
 If you need to search for specific session information, use the search function in the top left corner.
 
-```bash
-# Example search command
-$ kubectl describe pod <pod-name>
-```
+![TLS_SESSION_SEARCH_FUNCTION](./resources/image22.png)
 
-## 4.3 Reset
+### 3.2.3 Reset
 
 If the database becomes overloaded with excessive information, use the reset button to clear the output.
 
-```bash
-# Example reset command
-$ kubectl delete pod <pod-name> -n cryptoobserver
-```
+![TLS_SESSION_RESET](./resources/image23.png)
 
-# 5. Key Management
+## 3.3 Key Management
 
 The Key Management page provides a lifecycle management view of certificates and keys in the cloud service mesh.
 
-## 5.1 Screen Layout
+### 3.3.1 Screen Layout
+
+1. Dashboard Table : Show certificate and key details table being managed by Istio
+
+![TLS_SESSION_RESET](./resources/image24.png)
 
 The Key Management page shows the following information in a dashboard table:
 
@@ -272,11 +275,15 @@ The Key Management page shows the following information in a dashboard table:
 
 You can monitor certificate and key management events in real-time.
 
-# 6. TLS Verification
+## 3.4 TLS Verification
 
 The TLS Verification page attempts a TLS handshake with a specified target, providing encryption algorithm and domain information.
 
-## 6.1 Screen Layout
+### 3.4.1 Screen Layout
+
+1. Dashboard Table : Show handshake information table held in TLS Verification page
+
+![TLS_VERIFICATION_PAGE](./resources/image25.png)
 
 The following information is displayed after performing a TLS handshake:
 
@@ -287,18 +294,16 @@ The following information is displayed after performing a TLS handshake:
 - Signature Algorithm
 - Public Key Algorithm
 
-## 6.2 TLS Handshake
+### 3.4.2 TLS Handshake
 
-To execute a TLS handshake, use the search icon and input the IP and Port to attempt the handshake.
+The TLS handshake function may be executed through the green magnifier button at the top left as shown in screenshot below. In this case, the handshake target IP may be executed by entering the port number on the left and the port number on the right.
 
-```bash
-# Example TLS handshake command
-$ openssl s_client -connect <ip>:<port>
-```
-
-# 7. Example Usage
+![TLS_HANDSHAKE](./resources/image26.png)
+# 4. Example Usage
 
 For testing, we will generate an example service and perform an external TLS handshake with a weak encryption algorithm to verify proper system functionality.
+
+## 4.1 Topology
 
 - Run a Google MSA demo and Ubuntu deployment.
 - Perform an external OpenSSL test from outside to the Ubuntu deployment.
@@ -311,12 +316,4 @@ Update the README accordingly.
 
 This document outlines the deployment and management procedures for the CryptoObserver system. Make sure to follow the steps carefully to ensure proper functionality and integration with your cloud environment. For further customization or additional features, refer to the official documentation of the tools and frameworks used, such as Kubernetes, Istio, and OpenSSL.
 
-### Summary of Key Steps:
 
-1. Set up Docker and Kubernetes (MicroK8s) in your environment.
-2. Build and deploy the CryptoObserver and CryptoInspector images.
-3. Use Kubernetes to monitor and manage the pods, deployments, and services.
-4. Utilize the TLS Sessions, Key Management, and TLS Verification pages for real-time insights into encryption algorithms and security postures.
-5. Perform hands-on testing with the provided example usage.
-
-For any issues or troubleshooting, consider using Kubernetes logs, Docker image checks, and OpenSSL tests to diagnose and resolve problems efficiently.
