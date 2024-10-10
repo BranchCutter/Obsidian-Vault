@@ -80,18 +80,6 @@
             }
           },
           {
-            "id": "ef0576d73b18b15c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hackaton/Argo/Argo CD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8585a7aabdae87d8",
             "type": "leaf",
             "state": {
@@ -188,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       },
       {
         "id": "b447694776b5a253",
@@ -286,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RLLB.md",
+                "file": "network/1. Network Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RLLB.md",
+                "file": "network/1. Network Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RLLB.md"
+                "file": "network/1. Network Introduction.md"
               }
             }
           },
